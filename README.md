@@ -2,6 +2,8 @@
 
 Beejan Technologies is faced with lack of a pipeline to accommodate flow of data in the organization. Data from customers’ complaints are stored in different formats and make analysis and reporting difficult. To overcome this challenge, the project aimed at providing a conceptual end-to-end data pipeline that will bring all these data together, transform the data, it ready to provide actionable insights.
 
+The diagram of the conceptual pipeline is [Conceptual ETL](./CDE_ETL_Assignment.png)
+
 ### Design Choices
 
 Our choice of design for the pipeline will be batch processing. This choice is influenced by the nature of the data sources being large volumes of data coming in daily and do not require immediate analysis. The complaints from the customer will be scheduled to be ingested from the various sources in interval. In case of real-time data from social media (e.g. Twitter), the data can be collected on a scheduled basis using Twitter API. 
