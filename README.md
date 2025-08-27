@@ -41,4 +41,4 @@ Some of the challenges likely to be faced with project include:
 
 ### Diagram of the conceptual pipeline
 
-<img src="./CDE ETL Asignment.jpg" width="50%" height="50%"/>
+<img src="./CDE_ETL_Asignment.jpg"  alt="Conceptual ETL" width="50%" height="100%"/>
