@@ -2,7 +2,9 @@
 
 Beejan Technologies is faced with lack of a pipeline to accommodate flow of data in the organization. Data from customers’ complaints are stored in different formats and make analysis and reporting difficult. To overcome this challenge, the project aimed at providing a conceptual end-to-end data pipeline that will bring all these data together, transform the data, it ready to provide actionable insights.
 
-The diagram of the conceptual pipeline is [Conceptual ETL Diagram](./CDE_ETL_Assignment.png)
+The diagram of the conceptual pipeline is 
+
+![Conceptual ETL Diagram](./CDE_ETL_Assignment.png)
 
 ### Design Choices
 
